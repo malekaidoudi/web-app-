@@ -1,0 +1,15 @@
+.bg{
+background: rgb(195, 187, 241);
+height: 620px;
+display:flex;
+}
+.slide{
+    margin:0 auto;
+    justify-content: center;
+    align-self: center
+}
+    img{
+    margin:0 auto;
+    justify-content: center;
+    align-self: center;
+}
